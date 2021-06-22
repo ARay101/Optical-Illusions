@@ -1,0 +1,10 @@
+body {
+    background-image: url("https://i.pcmag.com/imagery/lineupitems/02xwoklsXD69x9zuyPm6BN0.1571449641.fit_lim.size_800x440.jpg");
+    background-repeat: space;
+    background-size: auto;
+    text-align: center
+}
+
+h1, h3, p{
+    font-family: "Lucida Console", "Courier New", monospace;
+}
