@@ -1,2 +1,2 @@
 # Optical-Illusions
-A project showing optical Illusions. 
+This project has many optical illusions
